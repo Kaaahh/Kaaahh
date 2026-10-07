@@ -14,4 +14,4 @@
 
 ## 🐍 Minha cobrinha
 
-![Snake animation](https://github.com/Kaaahh/Kaaahh/blob/output/github-contribution-grid-snake.gif)
+![Minha cobrinha](https://raw.githubusercontent.com/Kaaahh/Kaaahh/output/github-contribution-grid-snake.svg)
